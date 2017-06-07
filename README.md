@@ -2,7 +2,7 @@
 
 ## Goals
 
-- Great the world
+- Greet the world
 
 - Have a project free of spelling and punctuation errors
 
