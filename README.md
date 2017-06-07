@@ -2,8 +2,8 @@
 
 ## Goals
 
-- Greet the world
+- Greet the world.
 
-- Have a project free of spelling and punctuation errors
+- Have a project free of spelling and punctuation errors.
 
-- Play with the GitHub web interface
+- Play with the GitHub web interface.
